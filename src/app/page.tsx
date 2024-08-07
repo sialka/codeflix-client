@@ -1,8 +1,8 @@
 'use client';
 
-import Header from '@/components/Header';
-import { Banner } from '@/components/Banner';
-import { MovieRow } from '@/components/MovieRow';
+import Header from '../app/components/Header';
+import { Banner } from '../app/components/Banner';
+import { MovieRow } from '../app/components/MovieRow';
 
 export default function Home() {
   return (
